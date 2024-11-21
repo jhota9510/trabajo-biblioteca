@@ -1,0 +1,7 @@
+CODIGO TITULO CANTIDAD
+1,mar,100
+2,rio,1000
+3,oceano,500
+4,cartas,37
+5,real,12
+6,pobre,66

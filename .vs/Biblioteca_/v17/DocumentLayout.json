@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\controladores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\controladores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|c:\\users\\1234\\downloads\\biblioteca interfaz_181124\\biblioteca interfaz_181124\\biblioteca_\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\biblioteca_\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63F47-0E4D-4C91-9CFC-4C5931E3DC5E}|Biblioteca_\\Biblioteca_.csproj|solutionrelative:biblioteca_\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form2.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\Form2.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca_\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:09:11.939Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form3.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\Form3.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca_\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:09:09.579Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form1.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\Form1.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca_\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:09:02.985Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form2.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\Form2.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form2.cs",
+              "RelativeToolTip": "Biblioteca_\\Form2.cs",
+              "ViewState": "AgIAABIAAACAZmZmZmYSwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:18:21.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form1.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\Form1.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form1.cs",
+              "RelativeToolTip": "Biblioteca_\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:55:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form3.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\Form3.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form3.cs",
+              "RelativeToolTip": "Biblioteca_\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:02:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form4.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\Form4.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form4.cs",
+              "RelativeToolTip": "Biblioteca_\\Form4.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAABAvTQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:05:48.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "controladores.cs",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\controladores.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\controladores.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\controladores.cs",
+              "RelativeToolTip": "Biblioteca_\\controladores.cs",
+              "ViewState": "AgIAAAwBAAAA/f////8TwBEBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:54:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "model.cs",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\model.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\model.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\model.cs",
+              "RelativeToolTip": "Biblioteca_\\model.cs",
+              "ViewState": "AgIAAGkAAAAAzczMzMwuwCgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:53:06.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form4.cs",
+              "RelativeDocumentMoniker": "Biblioteca_\\Form4.cs",
+              "ToolTip": "C:\\Users\\1234\\Downloads\\Biblioteca interfaz_181124\\Biblioteca interfaz_181124\\Biblioteca_\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca_\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:20:42.498Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

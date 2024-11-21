@@ -1,0 +1,52 @@
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\bin\Debug\Biblioteca_.exe.config
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\bin\Debug\Biblioteca_.exe
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\bin\Debug\Biblioteca_.pdb
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.csproj.AssemblyReference.cache
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Form1.resources
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Properties.Resources.resources
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.csproj.GenerateResource.cache
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.exe
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.pdb
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Form2.resources
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Form3.resources
+C:\Users\DIANA\OneDrive\Escritorio\Juan\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Form4.resources
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\bin\Debug\Biblioteca_.exe.config
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\bin\Debug\Biblioteca_.exe
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\bin\Debug\Biblioteca_.pdb
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.csproj.AssemblyReference.cache
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Form1.resources
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Form2.resources
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Form3.resources
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Form4.resources
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.Properties.Resources.resources
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.csproj.GenerateResource.cache
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.csproj.CoreCompileInputs.cache
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.exe
+C:\Users\1234\Downloads\Biblioteca_\Biblioteca_\obj\Debug\Biblioteca_.pdb
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\bin\Debug\Biblioteca_.exe.config
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\bin\Debug\Biblioteca_.exe
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\bin\Debug\Biblioteca_.pdb
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.csproj.AssemblyReference.cache
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.Form1.resources
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.Form2.resources
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.Form3.resources
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.Form4.resources
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.Properties.Resources.resources
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.csproj.GenerateResource.cache
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.exe
+C:\Users\DIANA\Downloads\Biblioteca interfaz\Biblioteca_\obj\Debug\Biblioteca_.pdb
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\bin\Debug\Biblioteca_.exe.config
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\bin\Debug\Biblioteca_.exe
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\bin\Debug\Biblioteca_.pdb
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.csproj.AssemblyReference.cache
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.Form1.resources
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.Form2.resources
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.Form3.resources
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.Form4.resources
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.Properties.Resources.resources
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.csproj.GenerateResource.cache
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.csproj.CoreCompileInputs.cache
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.exe
+C:\Users\1234\Downloads\Biblioteca interfaz_181124\Biblioteca interfaz_181124\Biblioteca_\obj\Debug\Biblioteca_.pdb
